@@ -1,31 +1,30 @@
-# groovy-path2json
+# path2json
 
 print directory structure in json format
 
-![GitHub](https://img.shields.io/github/license/siakhooi/groovycli-path2json?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/siakhooi/groovycli-path2json?logo=github)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/siakhooi/groovycli-path2json?logo=github)
-![GitHub issues](https://img.shields.io/github/issues/siakhooi/groovycli-path2json?logo=github)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/siakhooi/groovycli-path2json?logo=github)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/siakhooi/groovycli-path2json?logo=github)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/siakhooi/groovycli-path2json?logo=github)
-![GitHub top language](https://img.shields.io/github/languages/top/siakhooi/groovycli-path2json?logo=github)
-![GitHub language count](https://img.shields.io/github/languages/count/siakhooi/groovycli-path2json?logo=github)
-![Lines of code](https://img.shields.io/tokei/lines/github/siakhooi/groovycli-path2json?logo=github)
-![GitHub repo size](https://img.shields.io/github/repo-size/siakhooi/groovycli-path2json?logo=github)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/siakhooi/groovycli-path2json?logo=github)
+![GitHub](https://img.shields.io/github/license/siakhooi/path2json?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/siakhooi/path2json?logo=github)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/siakhooi/path2json?logo=github)
+![GitHub issues](https://img.shields.io/github/issues/siakhooi/path2json?logo=github)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/siakhooi/path2json?logo=github)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/siakhooi/path2json?logo=github)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/siakhooi/path2json?logo=github)
+![GitHub top language](https://img.shields.io/github/languages/top/siakhooi/path2json?logo=github)
+![GitHub language count](https://img.shields.io/github/languages/count/siakhooi/path2json?logo=github)
+![GitHub repo size](https://img.shields.io/github/repo-size/siakhooi/path2json?logo=github)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/siakhooi/path2json?logo=github)
 ![Workflow](https://img.shields.io/badge/Workflow-github-purple)
-![workflow](https://github.com/siakhooi/groovycli-path2json/actions/workflows/workflow-build.yml/badge.svg)
-![workflow](https://github.com/siakhooi/groovycli-path2json/actions/workflows/workflow-deployments.yml/badge.svg)
+![workflow](https://github.com/siakhooi/path2json/actions/workflows/workflow-build.yml/badge.svg)
+![workflow](https://github.com/siakhooi/path2json/actions/workflows/workflow-deployments.yml/badge.svg)
 
 ![Release](https://img.shields.io/badge/Release-github-purple)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/siakhooi/groovycli-path2json?label=GPR%20release&logo=github)
-![GitHub all releases](https://img.shields.io/github/downloads/siakhooi/groovycli-path2json/total?color=33cb56&logo=github)
-![GitHub Release Date](https://img.shields.io/github/release-date/siakhooi/groovycli-path2json?logo=github)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/siakhooi/path2json?label=GPR%20release&logo=github)
+![GitHub all releases](https://img.shields.io/github/downloads/siakhooi/path2json/total?color=33cb56&logo=github)
+![GitHub Release Date](https://img.shields.io/github/release-date/siakhooi/path2json?logo=github)
 
 ![Quality-Qlty](https://img.shields.io/badge/Quality-Qlty-purple)
-[![Maintainability](https://qlty.sh/gh/siakhooi/projects/groovycli-path2json/maintainability.svg)](https://qlty.sh/gh/siakhooi/projects/groovycli-path2json)
-[![Code Coverage](https://qlty.sh/gh/siakhooi/projects/groovycli-path2json/coverage.svg)](https://qlty.sh/gh/siakhooi/projects/groovycli-path2json)
+[![Maintainability](https://qlty.sh/gh/siakhooi/projects/path2json/maintainability.svg)](https://qlty.sh/gh/siakhooi/projects/path2json)
+[![Code Coverage](https://qlty.sh/gh/siakhooi/projects/path2json/coverage.svg)](https://qlty.sh/gh/siakhooi/projects/path2json)
 
 ![Quality-Sonar](https://img.shields.io/badge/Quality-SonarCloud-purple)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=siakhooi_groovycli-path2json&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=siakhooi_groovycli-path2json)
@@ -80,4 +79,4 @@ $ sudo yum install siakhooi-path2json
 ### Quality
 
 - https://sonarcloud.io/project/overview?id=siakhooi_groovycli-path2json
-- https://qlty.sh/gh/siakhooi/projects/groovycli-path2json
+- https://qlty.sh/gh/siakhooi/projects/path2json

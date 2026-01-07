@@ -7,7 +7,7 @@ DEBIAN_PACKAGE_FILE=$(basename "$PATH_TO_FILE")
 
 TMPDIR=$(mktemp -d)
 
-readonly GIT_REPO_NAME=groovycli-path2json
+readonly GIT_REPO_NAME=path2json
 readonly TARGETPATH=docs/pool/main/binary-amd64
 readonly TARGETURL=https://${PUBLISH_TO_GITHUB_REPO_TOKEN}@github.com/siakhooi/apt.git
 readonly TARGETBRANCH=main

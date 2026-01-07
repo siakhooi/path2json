@@ -7,7 +7,7 @@ RPM_PACKAGE_FILE=$(basename "$PATH_TO_FILE")
 
 TMPDIR=$(mktemp -d)
 
-readonly GIT_REPO_NAME=groovycli-path2json
+readonly GIT_REPO_NAME=path2json
 readonly TARGETPATH=docs
 readonly TARGETURL=https://${PUBLISH_TO_GITHUB_REPO_TOKEN}@github.com/siakhooi/rpms.git
 readonly TARGETBRANCH=main
