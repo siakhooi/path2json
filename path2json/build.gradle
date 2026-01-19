@@ -15,7 +15,7 @@ plugins {
     id 'com.gradleup.shadow' version '9.3.1'
 
     // create deb
-    id "com.netflix.nebula.ospackage" version "12.1.1"
+    id "com.netflix.nebula.ospackage" version "12.2.0"
 
     id 'jacoco'
 
