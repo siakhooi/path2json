@@ -3,17 +3,15 @@ all-rpm: clean set-version build rpm bats-prepare-rpm bats-run
 
 set-version:
 	scripts/set-version.sh
-commit:
-	scripts/git-commit-and-push.sh
 release:
 	scripts/create-release.sh
 deb:
 	./scripts/build-deb.sh
-	dpkg-deb -c $$(ls siakhooi-path2json_*_amd64.deb)
+#	dpkg-deb -c $$(ls siakhooi-path2json_*_amd64.deb)
 rpm:
-	rpm --eval '%{_arch}'
+#	rpm --eval '%{_arch}'
 	./scripts/build-rpm.sh
-	rpm -ql $$(ls siakhooi-path2json-*.rpm)
+#	rpm -ql $$(ls siakhooi-path2json-*.rpm)
 
 install-deb:
 	apt install -y ./$$(ls siakhooi-path2json_*_amd64.deb)
