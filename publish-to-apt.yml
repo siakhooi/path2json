@@ -1,0 +1,9 @@
+repo: siakhooi/apt
+branch: main
+git_commit_user: path2json
+git_commit_email: path2json@siakhooi.github.io
+git_commit_message: "path2json: Auto deploy"
+
+files:
+  - source: siakhooi-path2json_*_amd64.deb
+    target: docs/pool/main/binary-amd64/
