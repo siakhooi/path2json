@@ -7,3 +7,4 @@ git_commit_message: "path2json: Auto deploy"
 files:
   - source: siakhooi-path2json-*.noarch.rpm
     target: docs/
+    items: 1

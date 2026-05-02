@@ -7,3 +7,4 @@ git_commit_message: "path2json: Auto deploy"
 files:
   - source: siakhooi-path2json_*_amd64.deb
     target: docs/pool/main/binary-amd64/
+    items: 1
